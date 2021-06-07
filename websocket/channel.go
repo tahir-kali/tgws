@@ -8,8 +8,8 @@ import (
 	"sync"
 	"unsafe"
 
-	"github.com/tahir-kali/ws"
-	"github.com/tahir-kali/ws/wsutil"
+	"github.com/tahir-kali/tgws"
+	"github.com/tahir-kali/tgws/wsutil"
 	"github.com/mailru/easygo/netpoll"
 )
 
