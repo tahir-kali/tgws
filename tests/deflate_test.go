@@ -9,9 +9,9 @@ import (
 	"time"
 
 	"github.com/gobwas/httphead"
-	"github.com/gobwas/ws"
-	"github.com/gobwas/ws/wsflate"
-	"github.com/gobwas/ws/wsutil"
+	"github.com/tahir-kali/tgws"
+	"github.com/tahir-kali/tgws/wsflate"
+	"github.com/tahir-kali/tgws/wsutil"
 )
 
 func TestFlateClientServer(t *testing.T) {
