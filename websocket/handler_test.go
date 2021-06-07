@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/tahir-kali/gows/pool"
+	"github.com/tahir-kali/tgws/pool"
 )
 
 func serverHandler(done chan struct{}) {
