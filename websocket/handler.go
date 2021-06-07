@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/tahir-kali/ws"
+	"github.com/tahir-kali/tgws"
 	"github.com/mailru/easygo/netpoll"
-	"github.com/tahir-kali/gws/pool"
+	"github.com/tahir-kali/tgws/pool"
 )
 
 // Handler is a high performance websocket handler that uses netpoll with
