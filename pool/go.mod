@@ -1,3 +1,3 @@
-module github.com/tahir-kali/gws/pool
+module github.com/tahir-kali/tgws/pool
 
 go 1.15
