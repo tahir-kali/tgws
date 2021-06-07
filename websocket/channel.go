@@ -9,7 +9,7 @@ import (
 	"unsafe"
 
 	"github.com/tahir-kali/tgws"
- 	"https://github.com/tahir-kali/tgws/wsutil"
+ 	"https://github.com/tahir-kali/tgws/wsutil/"
 	"github.com/mailru/easygo/netpoll"
 )
 
